@@ -4,7 +4,10 @@ import pandas as pd
 
 '''
 Filename: DataScrape_MSTRProjectDoc_20250619.py
-Description: This python program reads a folder full of HTML files that were created by MicroStrategy Project Documentation Export
+Description: 
+This python program reads a folder full of HTML files that were created by MicroStrategy Project Documentation Export 
+and scrapes names of Attributes, Metrics and Facts plus all their details like source tables, source columns and
+metric formulas. It then writes it all to an Excel File. 
 Author: Vik Makrani
 Date: 20250619
 '''
