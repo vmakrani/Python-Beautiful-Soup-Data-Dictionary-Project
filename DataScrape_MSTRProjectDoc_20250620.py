@@ -9,7 +9,7 @@ This python program reads a folder full of HTML files that were created by Micro
 and scrapes names of Attributes, Metrics and Facts plus all their details like source tables, source columns and
 metric formulas. It then writes it all to an Excel File. 
 Author: Vik Makrani
-Date: 20250619
+Date: 20250620
 '''
 
 html_folder = r"C:\Users\User\Desktop\MSTR Project Doc\Test_Python\Supply Chain Analytics-TEST Environment (20250618112430)\Supply Chain Analytics-TEST Environment (20250618112430)"
